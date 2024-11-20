@@ -1,0 +1,56 @@
+{
+  "uid" : "f14e5c36faaca6",
+  "name" : "test_01",
+  "fullName" : "Folder_1.test_1.Test1#test_01",
+  "historyId" : "47f99aa8550bf5bc2c73e19ddf69628a",
+  "time" : {
+    "start" : 1732117749886,
+    "stop" : 1732117749886,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Folder_1"
+  }, {
+    "name" : "suite",
+    "value" : "test_1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test1"
+  }, {
+    "name" : "host",
+    "value" : "0acd09ce8180"
+  }, {
+    "name" : "thread",
+    "value" : "1-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Folder_1.test_1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f14e5c36faaca6.json",
+  "parameterValues" : [ ]
+}
