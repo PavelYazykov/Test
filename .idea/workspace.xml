@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45bd04e0-539a-444e-809f-a3172d2aafe7" name="Changes" comment="commit_2">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/config.yml" afterDir="false" />
+    <list default="true" id="45bd04e0-539a-444e-809f-a3172d2aafe7" name="Changes" comment="commit_3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732116284907</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit_3">
+      <option name="closed" value="true" />
+      <created>1732116681534</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732116681534</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -79,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit_2" />
+    <MESSAGE value="commit_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_3" />
   </component>
 </project>
